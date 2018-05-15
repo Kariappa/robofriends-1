@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto+Slab');
+
+h1 {
+	font-family: 'Roboto Mono', monospace;
+	font-family: 'Roboto Slab', serif;
+	color: white;
+}
